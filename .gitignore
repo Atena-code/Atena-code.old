@@ -4,7 +4,6 @@ node_modules
 .temp
 vuepress
 TODOs.md
-dist
 deploy
 package-lock.json
 yarn.lock
